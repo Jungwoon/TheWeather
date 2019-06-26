@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TheWeather</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transition_string">hello</string>
+    <string name="add_dialog_text_city_name_hint">City Name</string>
+    <string name="add_dialog_btn_text">Add</string>
+    <string name="add_dialog_text_title">Find City Weather</string>
+    <string name="detail_dialog_btn_back_text">Back</string>
+    <string name="detail_dialog_btn_detail_text">Delete</string>
+    <string name="detail_dialog_txt_city_sample">Seoul</string>
+    <string name="detail_dialog_txt_temp_sample">26℃</string>
+    <string name="detail_dialog_txt_description_sample">Partly cloudy</string>
+    <string name="detail_dialog_txt_low_temp_sample">19℃</string>
+    <string name="detail_dialog_txt_high_temp_sample">29℃</string>
+    <string name="detail_dialog_txt_humidity_sample">21%</string>
+    <string name="detail_dialog_txt_pressure_sample">1015 hpa</string>
+    <string name="detail_dialog_txt_wind_speed_sample">1.5 m/s</string>
+    <string name="detail_dialog_txt_low_title">Low:</string>
+    <string name="detail_dialog_txt_high_title">High:</string>
+    <string name="detail_dialog_txt_humidity_title">Humidity:</string>
+    <string name="detail_dialog_txt_pressure_title">Pressure:</string>
+    <string name="detail_dialog_txt_wind_speed_title">Wind Speed:</string>
+    <string name="dashboard_card_txt_city">Seoul</string>
+    <string name="dashboard_card_txt_temp">26℃</string>
+    <string name="dashboard_card_txt_description">Partly cloudy</string>
+    <string name="dashboard_card_txt_gps">(GPS)</string>
+
+</resources>
