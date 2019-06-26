@@ -58,10 +58,11 @@ class DashboardPresenter(
 
                     if (gps) {
                         weather.gps = true
+                    } else {
+                        model.insertCity(weather.name)
                     }
 
                     view.addWeather(weather)
-                    model.insertCity(weather.name)
                 } else {
                     Toast.makeText(context, "해당 도시를 찾을 수가 없습니다.", Toast.LENGTH_SHORT).show()
                 }
